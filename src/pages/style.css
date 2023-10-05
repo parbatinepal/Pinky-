@@ -1,0 +1,65 @@
+.hero_section{
+    margin-top: 90px;
+    width: 100%;
+    overflow: hidden;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    
+  }
+
+  /* .row{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .row img{
+    width: 50%;
+  } */
+
+  .hero_img{
+    width: 100%;
+  }
+
+
+  .hero-content{
+    display: flex;
+    justify-content: center !important;
+    align-items: center;
+    padding: 0px 100px !important;
+  }
+
+
+  .countyr-content{
+    display: flex;
+    justify-content: center !important;
+    align-items: center;
+    padding: 0px 100px  !important;
+    
+  }
+
+
+.country_text{
+  padding: 0px 90px;
+}
+
+.country_image img{
+  width: 100% !important;  
+}
+
+
+.banner {
+      
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJgcZnB-k_rDdPNn8YQH-1UN0RA-TqGyMLA&usqp=CAU");
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+
