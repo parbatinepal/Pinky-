@@ -19,7 +19,7 @@ const Hero = () => {
 
         <Col md="6">
           <img
-          src="https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2023/07/top-20-small-dog-breeds.jpeg.jpg"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sgjH0ORJJRR4MYaVNtUmlvYGZ618c64T0Q&usqp=CAU"
             alt="img"
             className="hero_img"
           />

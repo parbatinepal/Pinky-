@@ -39,6 +39,9 @@
     
   }
 
+  .country_section{
+    padding:0px 100px;
+  }
 
 .country_text{
   padding: 0px 90px;
@@ -52,7 +55,7 @@
 .banner {
       
   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJgcZnB-k_rDdPNn8YQH-1UN0RA-TqGyMLA&usqp=CAU");
-  height: 50vh;
+  height: 65vh;
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -62,4 +65,109 @@
 }
 
 
+.process {
+  border: 0px solid #000;
+    padding:67px;
+    box-shadow: rgba(8, 89, 129, 0.35) 0px 5px 15px;
+    background-color: white;
+}
 
+.Letter {
+  border: 0px solid #000;
+    padding:67px;
+    box-shadow: rgba(8, 89, 129, 0.35) 0px 5px 15px;
+    background-color: white;
+}
+
+.Submits {
+  border: 0px solid #000;
+    padding:67px;
+    box-shadow: rgba(8, 89, 129, 0.35) 0px 5px 15px;
+    background-color: white;
+}
+
+.Guidance {
+  border: 0px solid #000;
+    padding:67px;
+    box-shadow: rgba(8, 89, 129, 0.35) 0px 5px 15px;
+    background-color: white;
+}
+
+
+.visa{
+  font-size: 70px !important;
+  color: #792ad3 !important;
+}
+
+.process:hover {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); 
+  transform: scale(1.05); 
+  transition: 0.3s ease-in-out; 
+
+}
+
+.Letter:hover {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); 
+  transform: scale(1.05); 
+  transition: 0.3s ease-in-out; 
+
+}
+
+.Submits:hover {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); 
+  transform: scale(1.05); 
+  transition: 0.3s ease-in-out; 
+
+}
+
+.process:hover {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); 
+  transform: scale(1.05); 
+  transition: 0.3s ease-in-out; 
+
+}
+
+.Guidance:hover {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); 
+  transform: scale(1.05); 
+  transition: 0.3s ease-in-out; 
+
+}
+
+.career{
+  color: #792ad3;
+}
+
+.about_img{
+  width: 100%;
+    height: 120%;
+}
+
+
+
+.new_banner{
+      
+    background: url("https://th.bing.com/th/id/OIP.Gl0I1fra7HdAb_AweVULTAHaE8?w=236&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7");
+    height: 35vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+  }
+
+  .about_section{
+    margin: 80px 0px;
+    /* height: 50vh; */
+  }
+
+
+  .test {
+   
+    justify-content: center !important;
+    align-items: center;
+    padding: 0px 550px !important;
+
+  }
