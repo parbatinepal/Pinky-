@@ -8,7 +8,7 @@ const Choose = () => {
         <h3> Why you choose us to build your career?</h3>
       </div>
 
-      <div className=" chooses row">
+      <div className=" chooses row gap-1">
         <div className="process col-md-3" style={{ width: "18rem" }}>
           <div>
             <LiaCcVisa className="visa" />
@@ -23,7 +23,13 @@ const Choose = () => {
         </div>
 
         <div className="Letter col-md-3" style={{ width: "18rem" }}>
-          <div>
+          <div >
+
+          <img
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD8Yo6CUKzWGJ6aeQSZfAIdPiwcG_9JNrXgg&usqp=CAU"
+                  className="letter"
+                  alt="..."
+                />
             <h5>Acceptance Letter</h5>
             <p>
             An acceptance letter is a formal document sent by an organization, institution,

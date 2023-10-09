@@ -99,6 +99,12 @@
   color: #792ad3 !important;
 }
 
+.letter{
+  height: 112px;
+  width: 100px;
+  
+}
+
 .process:hover {
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); 
   transform: scale(1.05); 
@@ -168,6 +174,28 @@
    
     justify-content: center !important;
     align-items: center;
-    padding: 0px 550px !important;
+    padding: 0px 311px !important;
 
   }
+
+  .new_test {
+    justify-content: center !important;
+    align-items: center;
+    padding: 0px 325px !important;
+    color:purple;
+  }
+
+
+
+  .avatar-img, .avatar-img-bottom, .avatar-img-top {
+    width: 37%;
+}
+
+.quotation-img, .quotation-img-bottom, .quotation-img-top {
+  width: 25%;
+  /* margin-right: 12px; */
+}
+.test_img{
+  display: flex;
+  justify-content: space-between;
+}
