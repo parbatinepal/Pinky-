@@ -11,7 +11,11 @@ const Choose = () => {
       <div className=" chooses row gap-1">
         <div className="process col-md-3" style={{ width: "18rem" }}>
           <div>
-            <LiaCcVisa className="visa" />
+          <img
+                 src="https://moonlightedu.com.np/uploads/choose/1680021503.png"
+                  className="letter"
+                  alt="..."
+                />
             <h5>Visa Process</h5>
             <p>
               The visa process can vary significantly depending on the country
@@ -26,7 +30,7 @@ const Choose = () => {
           <div >
 
           <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD8Yo6CUKzWGJ6aeQSZfAIdPiwcG_9JNrXgg&usqp=CAU"
+                  src="https://moonlightedu.com.np/uploads/choose/1680021459.png"
                   className="letter"
                   alt="..."
                 />
@@ -41,6 +45,11 @@ const Choose = () => {
 
         <div className="Submits col-md-3" style={{ width: "18rem" }}>
           <div>
+          <img
+                  src="https://moonlightedu.com.np/uploads/choose/1680021380.png"
+                  className="letter"
+                  alt="..."
+                />
             <h5>Application Submits</h5>
             <p>
             It seems like you're interested in the process of submitting an application.
@@ -52,6 +61,11 @@ const Choose = () => {
 
         <div className="Guidance col-md-3" style={{ width: "18rem" }}>
           <div>
+          <img
+                  src="https://moonlightedu.com.np/uploads/choose/1680021262.png"
+                  className="letter"
+                  alt="..."
+                />
             <h5>Admission Guidance</h5>
             <p>
               The visa process can vary significantly depending on the country

@@ -82,3 +82,34 @@
   .hero_section{
     margin-top: 20px;
   }
+
+
+
+  .about {
+      
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrz3FFLppz7G0DOBP0gc1i49thl27Hmr63Xw&usqp=CAU");
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+  }
+
+  .aboutnew {
+    color: chocolate;
+  }
+
+  .education {
+    color: #007bff;
+    text-align: center;
+    padding: 50px;
+    
+  }
+
+  .edu {
+    text-align:  center  ;
+    
+  }

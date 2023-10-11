@@ -6,6 +6,7 @@ import About from "../../pages/About";
 import Banner from "../../pages/Banner";
 import Test from "../../pages/Test";
 
+
 const Homepage: React.FC = () => {
   return (
     <>
@@ -15,6 +16,8 @@ const Homepage: React.FC = () => {
       <About/>
       <Banner/>
       <Test/>
+      
+      
     </>
   );
 };
