@@ -1,4 +1,3 @@
-import { LiaCcVisa } from "react-icons/lia";
 
 const Choose = () => {
   return (
