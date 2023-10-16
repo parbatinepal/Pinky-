@@ -5,6 +5,8 @@ import Choose from "../../pages/Choose";
 import About from "../../pages/About";
 import Banner from "../../pages/Banner";
 import Test from "../../pages/Test";
+import Partners from "../../pages/Partners";
+
 
 
 const Homepage: React.FC = () => {
@@ -16,8 +18,7 @@ const Homepage: React.FC = () => {
       <About/>
       <Banner/>
       <Test/>
-      
-      
+      <Partners/>      
     </>
   );
 };

@@ -56,13 +56,13 @@ const Header = () => {
       </Menu>
     </div>
 
-            <Link to="\language preparation">
+            <Link to="/language preparation">
               <Tab label="Language Preparation"/>
             </Link>
-            <Link to="\gallery">
+            <Link to="/gallery">
               <Tab label="Gallery"/>
             </Link>
-            <Link to="\contactus">
+            <Link to="/contactus">
               <Tab label="ContactUs"/>
             </Link>
             <Link to="/register">
@@ -71,7 +71,7 @@ const Header = () => {
             <Link to="/login">
             <Tab label="login" />
             </Link>
-            <Tab label="logout" />
+            
           </Tabs>
         </Toolbar>
       </AppBar>

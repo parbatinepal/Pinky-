@@ -1,4 +1,5 @@
 import { Row, Col } from "react-bootstrap";
+import AboutMission from "./AboutMission";
 
 const AboutUs = () => {
   return (
@@ -87,26 +88,8 @@ const AboutUs = () => {
           </Col>
         </Row>
 
-        <div className="education">
-        <h3>ABOUT CLIFFBYTE EDUCATION CONSULTANCY</h3>
-        <h1>WE ARE HERE TO FULFILL YOUR DREAMS</h1>
-        </div>
-
-        <div className="edu col-md-3" style={{ width: "18rem" }}>
-          <div >
-          <img
-                 src="https://moonlightedu.com.np/uploads/choose/1680021503.png"
-                  className="letter"
-                  alt="..."
-                />
-            <h5>Mission</h5>
-            <p>
-            To match the student’s abilities, performance, 
-            and desires with the best possible career options.
-            </p>
-          </div>
-        </div>
       </div>
+      <AboutMission />
     </>
   );
 };
