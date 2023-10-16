@@ -33,10 +33,12 @@ const Country = () => {
 <div className="card-body">
             <h5 className="card-title">Japan</h5>
             <p className="card-text">
-              The United States of America (USA) is a country located in North
-              America. It is a federal republic composed of 50 states, a federal
-              district (Washington, D.C.), and several territories. The USA is
-              known for its diverse geography, culture, and history.
+            Japan, officially known as the "State of Japan" or "Nippon-koku" in Japanese, 
+            is an island nation located in East Asia. It is an archipelago consisting of four 
+            main islands: Honshu, Hokkaido, Kyushu,and Shikoku, along with numerous smaller
+             islands. Here are some key facts about Japan.Japan is located in the Pacific Ocean 
+             and is known for its diverse geography, including mountains, forests, and a rugged coastline.
+              Mount Fuji, an iconic volcanic mountain, is Japan's highest peak.
             </p>
             <Button title="Learn More" />
           </div>
@@ -80,11 +82,12 @@ const Country = () => {
                  <div className="card-body">
             <h5 className="card-title">Australia</h5>
             <p className="card-text">
-            Canada is a North American country known for its vast and diverse landscape,
-             multicultural society, and strong economy. Here are some key facts about Canada.
-             Canada is a federal parliamentary democracy and a constitutional monarchy. 
-             The head of state is Queen Elizabeth II, represented by
-              the Governor General, while the head of government is the Prime Minister.
+            Australia, officially known as the Commonwealth of Australia, is a vast and diverse
+             country located in the southern hemisphere. It is both the world's largest island 
+             and the world's smallest continent. Here are some key facts about Australia. Australia is
+              a federal parliamentary constitutional monarchy. The British monarch, currently Queen 
+              Elizabeth II, is the ceremonial head of state, represented in Australia by the
+               Governor-General. The Prime Minister is the head of government.
             </p>
             <Button title="Learn More" />
           </div>
@@ -129,11 +132,12 @@ const Country = () => {
                  <div className="card-body">
             <h5 className="card-title">Japan</h5>
             <p className="card-text">
-            Canada is a North American country known for its vast and diverse landscape,
-             multicultural society, and strong economy. Here are some key facts about Canada.
-             Canada is a federal parliamentary democracy and a constitutional monarchy. 
-             The head of state is Queen Elizabeth II, represented by
-              the Governor General, while the head of government is the Prime Minister.
+            Japan, officially known as the "State of Japan" or "Nippon-koku" in Japanese, 
+            is an island nation located in East Asia. It is an archipelago consisting of four 
+            main islands: Honshu, Hokkaido, Kyushu,and Shikoku, along with numerous smaller
+             islands. Here are some key facts about Japan.Japan is located in the Pacific Ocean
+              and is known for its diverse geography, including mountains, forests, and a rugged coastline.
+              Mount Fuji, an iconic volcanic mountain, is Japan's highest peak.
             </p>
             <Button title="Learn More" />
           </div>
@@ -153,11 +157,12 @@ const Country = () => {
                  <div className="card-body">
             <h5 className="card-title">Asutralia</h5>
             <p className="card-text">
-            Canada is a North American country known for its vast and diverse landscape,
-             multicultural society, and strong economy. Here are some key facts about Canada.
-             Canada is a federal parliamentary democracy and a constitutional monarchy. 
-             The head of state is Queen Elizabeth II, represented by
-              the Governor General, while the head of government is the Prime Minister.
+            Australia, officially known as the Commonwealth of Australia, is a vast and diverse
+             country located in the southern hemisphere. It is both the world's largest island 
+             and the world's smallest continent. Here are some key facts about Australia. Australia is
+              a federal parliamentary constitutional monarchy. The British monarch, currently Queen 
+              Elizabeth II, is the ceremonial head of state, represented in Australia by the
+               Governor-General. The Prime Minister is the head of government.
             </p>
             <Button title="Learn More" />
           </div>
